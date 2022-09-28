@@ -1,0 +1,33 @@
+.active-nav{
+    color:#000099 !important;
+    text-shadow: 1px 1px gold;
+}
+.inactive-nav{
+    color:#676797 !important;
+}
+.inactive-nav:hover{
+    color:#000099 !important;
+}
+.team-link{
+    color: black;
+    text-decoration: none;
+}
+.bg-navy{
+    background-color:#000044 !important;
+}
+.bg-lightgold{
+    background-color: #FFEC8A !important;
+}
+.bg-darkgold{
+    background-color: #ffde3a !important;
+}
+.blue-gold-btn{
+    background-color: #000044 !important;
+    border-color: #FFD700 !important;
+}
+.text-navy{
+    color:#000044 !important;
+}
+.text-lightgold{
+    color:#FFEC8A !important;
+}
