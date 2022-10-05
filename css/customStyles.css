@@ -25,9 +25,18 @@
     background-color: #000044 !important;
     border-color: #FFD700 !important;
 }
+.gold-blue-btn{
+    background-color: #FFEC8A !important;
+    border-color: #000044 !important;
+    color: #000044 !important;
+}
 .text-navy{
     color:#000044 !important;
 }
 .text-lightgold{
     color:#FFEC8A !important;
+}
+.sticky{
+    position: fixed;
+    width: 100%;
 }
