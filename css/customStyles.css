@@ -40,6 +40,10 @@
     position: fixed;
     width: 100%;
 }
+.stickyText{
+    color: inherit !important;
+    text-decoration: none;
+}
 .display-7{
     font-size: 1.7rem;
 }
